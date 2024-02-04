@@ -11,7 +11,6 @@ Here you can find everything about compiling minecraft LEGALLY!
 **P.S: I'm using Linux for this tutorial, You can do every step that i did in Windows or maybe MacOS too.**
 
 ## Setting up the environment
-* First of all, You should need Eclipse IDE installed in order to continue the process.
 * **You can use Intellij IDEA too but this tutorial will cover about Eclipse.**
 
 Install the repository by clicking **Code -> Download ZIP** or you can **git clone**.
@@ -72,7 +71,4 @@ This happens because the Minecraft checks the files, you can fix it by just watc
 [![tutorial](https://github.com/WH0LEWHALE/minecraft-sc-compiling-tutorial/assets/146978592/8f871acd-8cee-4361-82c6-35ee996b5c4a)](https://github.com/WH0LEWHALE/minecraft-sc-compiling-tutorial/assets/146978592/8f871acd-8cee-4361-82c6-35ee996b5c4a)
 
 Follow the path that is in the right of client-extra.jar file, im on linux so thats why its different than Windows.
-
-Dont mind the screen glitches on videos, i was fixed it after the video.
-
 
