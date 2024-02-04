@@ -60,7 +60,8 @@ Watch the video in order to make your own custom minecraft version:
 
 [![tutorial](https://github.com/WH0LEWHALE/minecraft-sc-compiling-tutorial/assets/146978592/3f7a052e-f7c5-47d0-956f-abd2965a1796)](https://github.com/WH0LEWHALE/minecraft-sc-compiling-tutorial/assets/146978592/3f7a052e-f7c5-47d0-956f-abd2965a1796)
 
-**DONE, JUST PUT THAT JAR FILE TO "1.20.4test" FOLDER AND PUT THAT FOLDER TO appdata -> roaming -> .minecraft -> versions**
+**DONE, JUST PUT THAT JAR FILE TO "1.20.4test" FOLDER AND CHANGE THE JAR NAME SAME AS JSON FILE NAME AND PUT THAT FOLDER TO appdata -> roaming -> .minecraft -> versions**
+
 
 # Troubleshooting
 
