@@ -73,8 +73,6 @@ This happens because the Minecraft checks the files, you can fix it by just watc
 
 Follow the path that is in the right of client-extra.jar file, im on linux so thats why its different than Windows.
 
-
-Sorry for glitches in the videos, i will fix it asap.
-
+Dont mind the screen glitches on videos, i was fixed it after the video.
 
 
