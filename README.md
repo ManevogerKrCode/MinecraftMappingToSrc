@@ -64,9 +64,9 @@ Watch the video in order to make your own custom minecraft version:
 
 # Troubleshooting
 
-**When i change the client-extra.jar, the game wont open**
+**When i change some file in the client-extra.jar, the game crashes**
 
-This happens because the Minecraft checks the files, you can fix it by just watching the video:
+This happens because the Minecraft checks the files first, then start the game. You can fix it by just watching the video:
 
 [![tutorial](https://github.com/WH0LEWHALE/minecraft-sc-compiling-tutorial/assets/146978592/8f871acd-8cee-4361-82c6-35ee996b5c4a)](https://github.com/WH0LEWHALE/minecraft-sc-compiling-tutorial/assets/146978592/8f871acd-8cee-4361-82c6-35ee996b5c4a)
 
