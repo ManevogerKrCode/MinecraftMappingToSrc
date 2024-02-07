@@ -73,3 +73,10 @@ This happens because the Minecraft checks the files first, then start the game. 
 Follow the path that is in the right of client-extra.jar file, im on linux so thats why its different than Windows.
 
 For windows, the path will be like: **``C:\Users\yourname\.gradle\caches\forge_gradle\minecraft_repo\versions\1.20.4-20231207.112700``**
+
+
+# Modding
+
+Head over to the [wiki page!](https://github.com/WH0LEWHALE/minecraft-sc-compiling-tutorial/wiki/Modding)
+
+NOTE: This wiki page is not ready yet.
