@@ -74,6 +74,8 @@ Follow the path that is in the right of client-extra.jar file, im on linux so th
 
 For windows, the path will be like: **``C:\Users\yourname\.gradle\caches\forge_gradle\minecraft_repo\versions\1.20.4-20231207.112700``**
 
+Dont mind the flickering in the videos, i just fixed this by changing opengl settings and it works well now, sorry for the problem.
+
 
 # Modding
 
