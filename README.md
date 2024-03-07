@@ -1,4 +1,5 @@
-**Currently MCP-Minecraft version:** *1.20.4* 
+**Currently MCP-Minecraft version:** *1.20.4* <br>
+When new updates are released, i will release it.
 
 # Prerequisites - Requirements
 - Repository
