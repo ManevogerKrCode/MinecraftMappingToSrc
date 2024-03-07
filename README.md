@@ -1,5 +1,5 @@
 **Currently MCP-Minecraft version:** *1.20.4* <br>
-When new updates are released, i will release it.
+When new updates are released, i will release it in another branch.
 
 # Prerequisites - Requirements
 - Repository
