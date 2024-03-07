@@ -34,7 +34,7 @@ group = 'me.yourname'
 version = '1.0.0'
 
 ext {
-// you can mantually upgrade this versions.
+// you can manually upgrade this versions.
     minecraft_version = '1.20.4'
     mcp_version = '20231207.112700'
     mappings_channel = 'official'
