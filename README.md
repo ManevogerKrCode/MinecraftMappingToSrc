@@ -1,5 +1,5 @@
 **Currently MCP-Minecraft version:** *1.20.4* <br>
-*You can check out this repository for decompiling snapshots or newer versions that i forgot to upload:* https://github.com/hube12/DecompilerMC<br>
+*You can alternatively check out this repository for decompiling snapshots or newer versions that i forgot to upload:* https://github.com/hube12/DecompilerMC<br>
 
 # Prerequisites - Requirements
 - Repository
